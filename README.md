@@ -32,14 +32,31 @@ print("Hello World")
 
 ---
 
-## 🌱 What I'm Learning
+## 🌱 What I'm Learning  
 
-I'm currently exploring:
-- **Next.js** and **React Native** for scalable frontend development.
-- **TypeScript** to enhance code reliability and maintainability.
-- **Firebase** for robust backend services.
-- **Django** for server-side development.
-- Advanced **Data Science** and **AI/ML** techniques.
+<div style="font-family: 'Tourney', sans-serif; font-size: 1.2rem;">  
+- **Next.js**: For blazing-fast, server-rendered React applications.  
+- **React Native**: Building seamless cross-platform mobile apps.  
+- **TypeScript**: Elevating JavaScript with strong typing.  
+- **WebAssembly**: Unlocking near-native web performance.  
+- **Django**: Creating scalable, robust backend services.  
+- **FastAPI**: Building ultra-fast Python-based APIs.  
+- **GraphQL**: Optimizing data fetching in modern apps.  
+- **Rust**: Exploring memory-safe backend systems.  
+- **Transformers**: BERT, GPT for NLP & generative AI.  
+- **Computer Vision**: OpenCV, YOLO for image analytics.  
+- **Federated Learning**: AI on decentralized edge devices.  
+- **Big Data**: Apache Spark, Kafka for large-scale processing.  
+- **CI/CD Pipelines**: Automating deployments with Jenkins.  
+- **Kubernetes**: Orchestrating containers at scale.  
+- **Terraform**: Infrastructure as code mastery.  
+- **Blockchain**: Building decentralized apps with Solidity.  
+- **Quantum Computing**: Qiskit for future-proof algorithms.  
+- **IoT**: Connecting the world with Raspberry Pi & Arduino.  
+- **AR/VR**: Creating immersive 3D apps with Unity.  
+- **Metaverse**: Building the future with Unreal Engine.  
+</div>
+
 
 ---
 
