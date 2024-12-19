@@ -2,12 +2,20 @@
 
 Hi there! 👋 I'm **Teja Karthik G**, a passionate developer with a flair for crafting interactive and aesthetic web experiences. Welcome to my GitHub!
 
-### _**Mom: Don’t touch your computer and mobile until your exams are over.**_
-### **Me:**
-![Coder Cat GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh6bDlvdG5qcGpyZ2MycWIwc3dkczhrbW5iaHpucm9wNmg3OGdrNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tg9jENf7x11tdJnyMQ/giphy.gif)
+<div style="display: flex; align-items: center;">
+    <div>
+        <h3><em>Mom: Don’t touch your computer and mobile until your exams are over.</em></h3>
+        <h3><strong>Me:</strong></h3>
+    </div>
+    <div>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh6bDlvdG5qcGpyZ2MycWIwc3dkczhrbW5iaHpucm9wNmg3OGdrNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tg9jENf7x11tdJnyMQ/giphy.gif" alt="Coder Cat GIF" style="width: 200px; height: auto; margin-left: 20px;">
+    </div>
+</div>
 
-### **Over-killing Hello World Program:**
-```python
+<div style="display: flex; align-items: center; margin-top: 20px;">
+    <div>
+        <h3><strong>Over-killing Hello World Program:</strong></h3>
+        <pre>
 import numpy as np
 import pandas as pd
 import tensorflow as tf
@@ -15,12 +23,14 @@ import tensorflow.keras as keras
 import cv2
 
 print("Hello World")
-```
+        </pre>
+    </div>
+    <div>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHY4cXU4MjluNzRwOTFxYnFqZ2FmcWRoZGZndXRnaDF4MXVqaDUzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CjmvTCZf2U3p09Cn0h/giphy.gif" alt="Over-Killing Hello World Program GIF" style="width: 200px; height: auto; margin-left: 20px;">
+    </div>
+</div>
 
 ---
-![Over-Killing Hello World Program GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHY4cXU4MjluNzRwOTFxYnFqZ2FmcWRoZGZndXRnaDF4MXVqaDUzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CjmvTCZf2U3p09Cn0h/giphy.gif)
-
-
 
 ## 🌱 What I'm Learning
 
