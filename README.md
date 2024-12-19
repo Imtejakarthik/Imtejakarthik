@@ -7,7 +7,7 @@ Hi there! 👋 I'm **Teja Karthik G**, a passionate developer with a flair for c
 ![Coder Cat GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh6bDlvdG5qcGpyZ2MycWIwc3dkczhrbW5iaHpucm9wNmg3OGdrNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tg9jENf7x11tdJnyMQ/giphy.gif)
 
 ### **Over-killing Hello World Program:**
-
+```python
 import numpy as np
 import pandas as pd
 import tensorflow as tf
@@ -15,8 +15,10 @@ import tensorflow.keras as keras
 import cv2
 
 print("Hello World")
+```
 
-![Over-Killing Hello World Program GIF](https://tenor.com/view/scaler-create-impact-god-programming-coding-gif-25011986)
+---
+![Over-Killing Hello World Program GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHY4cXU4MjluNzRwOTFxYnFqZ2FmcWRoZGZndXRnaDF4MXVqaDUzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CjmvTCZf2U3p09Cn0h/giphy.gif)
 
 
 
