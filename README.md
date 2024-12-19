@@ -1,5 +1,5 @@
 # Teja Karthik G
-### Pen Name Is KEN
+### Pen Name Is KENTA
 Hi there! 👋 I'm **Teja Karthik G**, a passionate developer with a flair for crafting interactive and aesthetic web experiences. Welcome to my GitHub!
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
