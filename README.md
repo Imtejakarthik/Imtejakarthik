@@ -1,5 +1,3 @@
-# Cyberpunk Code Architect | Digital Dreamweaver
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=300&section=header&text=TEJA%20KARTHIK%20G&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Cyberpunk%20Code%20Architect%20|%20Digital%20Dreamweaver&descAlignY=51&descAlign=62" width="100%"/>
 </div>
@@ -15,68 +13,135 @@
 <div align="center">
   <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Escapism%20-%20Kirokaze%20Pixel-kaTbsKwbkobVTG14G2vQAWZqm8yir6.gif" width="400" style="border-radius: 10px;">
 </div>
+<div align="center">
 
-## Tech Arsenal
+```ascii
+🔥 SHORYUKEN DEVELOPER 🔥
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-  <br>
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <br>
-  <!-- AI/ML -->
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
-</p>
+    ██╗  ██╗███████╗███╗   ██╗    ███╗   ███╗ █████╗ ███████╗████████╗███████╗██████╗ 
+    ██║ ██╔╝██╔════╝████╗  ██║    ████╗ ████║██╔══██╗██╔════╝╚══██╔══╝██╔════╝██╔══██╗
+    █████╔╝ █████╗  ██╔██╗ ██║    ██╔████╔██║███████║███████╗   ██║   █████╗  ██████╔╝
+    ██╔═██╗ ██╔══╝  ██║╚██╗██║    ██║╚██╔╝██║██╔══██║╚════██║   ██║   ██╔══╝  ██╔══██╗
+    ██║  ██╗███████╗██║ ╚████║    ██║ ╚═╝ ██║██║  ██║███████║   ██║   ███████╗██║  ██║
+    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
+```
 
-## Cyberpunk Stats Matrix
+`<!-- Cyberpunk Separator -->``<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00FF,100:00FFFF&height=2&section=header" width="100%"/>
+</div>``<!-- Tech Arsenal Section -->``<div align="center">
+  <h2>🔥 TECH ARSENAL: ULTIMATE POWER GRID</h2>``  <table align="center">
+    <tr>
+      <td align="center" width="300">
+        <h3>🌟 HADOKEN (Frontend)</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" width="200" />
+          <br/>
+          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+          <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+        </div>
+      </td>
+      <td align="center" width="300">
+        <h3>💫 SHORYUKEN (Backend)</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=nodejs,python,go,rust" width="200" />
+          <br/>
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+          <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+          <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" />
+        </div>
+      </td>
+      <td align="center" width="300">
+        <h3>⚡ TATSUMAKI (DevOps)</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform" width="200" />
+          <br/>
+          <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+          <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+          <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+        </div>
+      </td>
+    </tr>
+  </table>``  <h3>🧠 AI/ML SUPREME TECHNIQUES</h3>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=10" />
+    <br/>
+    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+    <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+    <img src="https://img.shields.io/badge/JAX-A8A4A3?style=for-the-badge&logo=jax&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  </div>``  <h3>🔮 DATA WARRIOR ARSENAL</h3>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch&perline=10" />
+    <br/>
+    <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+    <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  </div>``  <h3>🎯 SPECIAL POWER-UPS</h3>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=vim,vscode,git,linux&perline=10" />
+    <br/>
+    <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+    <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
+    <img src="https://img.shields.io/badge/Doom_Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white" />
+  </div>``  <br/>
+  <img src="https://img.shields.io/badge/POWER_LEVEL-OVER_9000-FF3D00?style=for-the-badge&labelColor=000000" />
+</div>
+````I've:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imtejakarthik&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak">
-</p>
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imtejakarthik&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtejakarthik&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF" alt="Top Languages" height="165">
+  <img src="https://github-profile-trophy.vercel.app/?username=Imtejakarthik&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4&title_color=FF3D00" alt="Victory Trophies"/>
 </div>
 
-## Achievement Grid
+## 🎮 Current Missions
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Imtejakarthik&theme=radical&no-frame=true&no-bg=true&column=4&title_color=FF00FF" alt="GitHub Trophies">
-</p>
+```
+┌──────────────────────────────────────────────────┐
+│ 🔥 Mastering the Art of Clean Code               │
+│ 💨 Perfecting API Combat Techniques              │
+│ 🌪️ Unleashing New Project Combinations           │
+└──────────────────────────────────────────────────┘
+```
 
-## Neural Network
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imtejakarthik&custom_title=Digital%20Neural%20Network&bg_color=0D1117&color=FF00FF&line=00FFFF&point=FF00FF&area=true&hide_border=true" alt="Contribution Graph">
-</div>
-
-<br>
+## 🌐 Training Grounds
 
 <div align="center">
   <a href="https://www.linkedin.com/in/teja-karthik-b87824259/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-FF3D00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Imtejakarthik">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Follow-FF3D00?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/tejakarthik.gubbala/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-Follow-FF3D00?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=120&section=footer" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imtejakarthik&custom_title=Digital%20Neural%20Network&bg_color=000000&color=FF3D00&line=00FFFF&point=FF3D00&area=true&hide_border=true" alt="Contribution Graph">
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Imtejakarthik&style=for-the-badge&color=FF00FF" alt="Profile Views">
+  READY FOR NEXT BATTLE...
+
+  [█████████████████████████████████████████]
+
+  LOADING POWER...
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Imtejakarthik&color=FF3D00&style=for-the-badge&label=CHALLENGERS" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3D00,100:00FFFF&height=120&section=footer" width="100%">
 </div>
