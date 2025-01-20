@@ -1,3 +1,5 @@
+# Cyberpunk Code Architect | Digital Dreamweaver
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=300&section=header&text=TEJA%20KARTHIK%20G&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Cyberpunk%20Code%20Architect%20|%20Digital%20Dreamweaver&descAlignY=51&descAlign=62" width="100%"/>
 </div>
@@ -14,10 +16,7 @@
   <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Escapism%20-%20Kirokaze%20Pixel-kaTbsKwbkobVTG14G2vQAWZqm8yir6.gif" width="400" style="border-radius: 10px;">
 </div>
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px" height="24px">
-  Tech Arsenal
-</h2>
+## Tech Arsenal
 
 <p align="center">
   <!-- Frontend -->
@@ -37,10 +36,7 @@
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
 </p>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24px" height="24px">
-  Cyberpunk Stats Matrix
-</h2>
+## Cyberpunk Stats Matrix
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imtejakarthik&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak">
@@ -51,19 +47,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtejakarthik&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF" alt="Top Languages" height="165">
 </div>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="24px" height="24px">
-  Achievement Grid
-</h2>
+## Achievement Grid
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Imtejakarthik&theme=radical&no-frame=true&no-bg=true&column=4&title_color=FF00FF" alt="GitHub Trophies">
 </p>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="24px" height="24px">
-  Neural Network
-</h2>
+## Neural Network
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imtejakarthik&custom_title=Digital%20Neural%20Network&bg_color=0D1117&color=FF00FF&line=00FFFF&point=FF00FF&area=true&hide_border=true" alt="Contribution Graph">
@@ -90,4 +80,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Imtejakarthik&style=for-the-badge&color=FF00FF" alt="Profile Views">
 </div>
-
