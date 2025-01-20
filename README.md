@@ -3,12 +3,14 @@
 Hi there! 👋 I'm **Teja Karthik G**, a passionate developer with a flair for crafting interactive and aesthetic web experiences. Welcome to my GitHub!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Teja%20Karthik%20G&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Teja%20Karthik%20G&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20UI/UX%20Enthusiast%20|%20AI/ML%20Explorer&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+a+Full-Stack+Developer;UI/UX+Enthusiast;Always+learning+new+things&center=true&width=380&height=45">
-</h1>
+<p align="center">
+  <a href="https://github.com/Imtejakarthik">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+TechieVibes!;Crafting+Code+and+Creating+Solutions;Always+learning%2C+always+growing&center=true&width=380&height=45">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.instagram.com/tejakarthik.gubbala/">
@@ -22,19 +24,20 @@ Hi there! 👋 I'm **Teja Karthik G**, a passionate developer with a flair for c
   </a>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh6bDlvdG5qcGpyZ2MycWIwc3dkczhrbW5iaHpucm9wNmg3OGdrNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tg9jENf7x11tdJnyMQ/giphy.gif" width="200" height="200">
-</div>
-
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">👨‍💻 CodeCrafted Journey</h2>
 
 <p align="center">
-  I'm a passionate developer with a flair for crafting interactive and aesthetic web experiences. <br>
-  My pen name is <strong>KENTA</strong>, and I'm always excited to learn and grow in the world of technology.
+  Hi there! 👋 I'm <strong>Teja Karthik G</strong>, also known as <strong>KENTA</strong>. I'm a passionate developer with a flair for crafting interactive and aesthetic web experiences. My journey in tech is a blend of creativity, innovation, and continuous learning.
 </p>
 
+<div align="center">
+  <img src="https://sjc.microlink.io/ilFYXnoNnifsly4Wm53s6P-7rdjzmo337UclI5IT2HRs-yQ_lmsyiZu0O1j0esLG5WPSwI4fxCHZoqnYMuLIcw.jpeg" alt="Cyberpunk Developer Setup" width="400" style="border-radius: 10px; margin: 20px 0;">
+</div>
+
+<h2 align="center">🚀 TechExplorer's Arsenal</h2>
+
 <details>
-  <summary><h2>🌱 What I'm Learning</h2></summary>
+  <summary><h3>🌱 What I'm Learning</h3></summary>
   <br>
   <div align="center">
     <table>
@@ -94,13 +97,20 @@ Hi there! 👋 I'm **Teja Karthik G**, a passionate developer with a flair for c
   </div>
 </details>
 
-<h2 align="center">🚀 My Tech Journey</h2>
+<h2 align="center">💻 FullStackGuru's Tech Stack</h2>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imtejakarthik&theme=react-dark&hide_border=true" width="95%" alt="activity graph">
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+</p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 DevShowcase: GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Imtejakarthik&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" height="170">
@@ -111,28 +121,66 @@ Hi there! 👋 I'm **Teja Karthik G**, a passionate developer with a flair for c
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imtejakarthik&theme=radical&hide_border=false" alt="GitHub Streak">
 </div>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 The Innovator's Trophies</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Imtejakarthik&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies">
 </div>
 
-<h2 align="center">👨‍💻 This week, I spent my time on</h2>
+<h2 align="center">⏱️ AI_Minds: Time Allocation</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Imtejakarthik&theme=radical" alt="Wakatime Stats">
 </div>
 
-<h2 align="center">🐍 Contribution Graph</h2>
+<h2 align="center">🐍 The Creator's Contribution Graph</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Imtejakarthik/Imtejakarthik/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation">
 </div>
 
+<h2 align="center">🧙‍♂️ Unveiling the Code Alchemist</h2>
+
+<div align="center" style="background: linear-gradient(45deg, #1a1a1a, #2a2a2a); padding: 20px; border-radius: 10px; margin: 20px 0;">
+  <p align="left" style="color: #fff; line-height: 1.6;">
+    Greetings, fellow digital adventurers! I'm not your average code wrangler – I'm a 3rd-year B.E./B.Tech student on a quest to unravel the mysteries of Artificial Intelligence and Machine Learning. Think of me as a modern-day tech alchemist, turning lines of code into digital gold! 🌟
+  </p>
+
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
+    <div style="text-align: left;">
+      <h3>🎭 The Developer's Persona</h3>
+      <p>By day, I'm a full-stack sorcerer, conjuring web wonders with React, Next.js, Node.js, and MongoDB. By night, I'm a TypeScript troubadour and a Prisma poet, composing symphonies of seamless software.</p>
+    </div>
+    <div style="text-align: left;">
+      <h3>🧠 The Knowledge Seeker</h3>
+      <p>My mind is an ever-expanding universe of tech knowledge, always hungry for the next big breakthrough. I don't just solve problems – I befriend them, take them out for coffee, and then elegantly show them the exit.</p>
+    </div>
+  </div>
+
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px 0;">
+    <div style="text-align: left;">
+      <h3>🚀 The Innovator</h3>
+      <p>When I'm not pushing pixels or training neural networks, you'll find me at tech meetups and hackathons, where I transform caffeine into code and dreams into demos.</p>
+    </div>
+    <div style="text-align: left;">
+      <h3>🎸 The Artist</h3>
+      <p>Off the digital grid, I'm a time-traveling philosopher, strumming my guitar to the tunes of ancient wisdom and futuristic melodies. I volley ideas on the badminton court, each serve a metaphor for problem-solving in tech.</p>
+    </div>
+    <div style="text-align: left;">
+      <h3>🎮 The Strategist</h3>
+      <p>In the realm of pixels and polygons, I'm a strategic mastermind, applying game theory to both my code and my gaming. Every movie I watch is a lesson in storytelling, every cultural event a masterclass in user experience.</p>
+    </div>
+  </div>
+
+  <p align="center" style="color: #fff; font-style: italic; margin-top: 20px;">
+    🌈 So, whether you're looking for a coding companion, a tech visionary, or just someone to debate the philosophical implications of AI over a game of badminton, I'm your human! Let's connect and create some digital magic together!
+  </p>
+</div>
+
 <div align="center">
-  <h3>Mom: Don't touch your computer and mobile until your exams are over.</h3>
+  <h3><em>Mom: Don't touch your computer and mobile until your exams are over.</em></h3>
   <h3><strong>Me:</strong></h3>
-  <img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" width="300" alt="Coding anyway">
+  <img src="https://sjc.microlink.io/ilFYXnoNnifsly4Wm53s6P-7rdjzmo337UclI5IT2HRs-yQ_lmsyiZu0O1j0esLG5WPSwI4fxCHZoqnYMuLIcw.jpeg" alt="Cyberpunk Developer" width="300" style="border-radius: 10px; margin: 20px 0;">
 </div>
 
 <div align="center">
@@ -142,3 +190,19 @@ Hi there! 👋 I'm **Teja Karthik G**, a passionate developer with a flair for c
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Imtejakarthik&style=for-the-badge&color=blueviolet" alt="Profile Views">
 </div>
+
+<style>
+  .grid-container > div {
+    transition: transform 0.3s ease;
+  }
+  
+  .grid-container > div:hover {
+    transform: translateY(-5px);
+  }
+  
+  h3 {
+    background: linear-gradient(45deg, #ff6b6b, #4ecdc4);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+</style>
