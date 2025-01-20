@@ -1,208 +1,93 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Teja%20Karthik%20G&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20UI/UX%20Enthusiast%20|%20AI/ML%20Explorer&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=300&section=header&text=TEJA%20KARTHIK%20G&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Cyberpunk%20Code%20Architect%20|%20Digital%20Dreamweaver&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
-<p align="center">
-  <a href="https://github.com/Imtejakarthik">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+TechieVibes!;Crafting+Code+and+Creating+Solutions;Always+learning%2C+always+growing&center=true&width=380&height=45">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;AI%2FML+Explorer;Cyberpunk+Coder" alt="Typing SVG" />
   </a>
-</p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Escapism%20-%20Kirokaze%20Pixel-kaTbsKwbkobVTG14G2vQAWZqm8yir6.gif" width="400" style="border-radius: 10px;">
+</div>
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px" height="24px">
+  Tech Arsenal
+</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/tejakarthik.gubbala/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <br>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <br>
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+</p>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24px" height="24px">
+  Cyberpunk Stats Matrix
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imtejakarthik&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak">
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Imtejakarthik&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtejakarthik&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF" alt="Top Languages" height="165">
+</div>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="24px" height="24px">
+  Achievement Grid
+</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Imtejakarthik&theme=radical&no-frame=true&no-bg=true&column=4&title_color=FF00FF" alt="GitHub Trophies">
+</p>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="24px" height="24px">
+  Neural Network
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imtejakarthik&custom_title=Digital%20Neural%20Network&bg_color=0D1117&color=FF00FF&line=00FFFF&point=FF00FF&area=true&hide_border=true" alt="Contribution Graph">
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/teja-karthik-b87824259/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Imtejakarthik">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-</p>
-
-<h2 align="center">👨‍💻 CodeCrafted Journey</h2>
-
-<p align="center">
-  Hi there! 👋 I'm <strong>Teja Karthik G</strong>, also known as <strong>KENTA</strong>. I'm a passionate developer with a flair for crafting interactive and aesthetic web experiences. My journey in tech is a blend of creativity, innovation, and continuous learning.
-</p>
-
-<div align="center">
-  <img src="https://sjc.microlink.io/ilFYXnoNnifsly4Wm53s6P-7rdjzmo337UclI5IT2HRs-yQ_lmsyiZu0O1j0esLG5WPSwI4fxCHZoqnYMuLIcw.jpeg" alt="Cyberpunk Developer Setup" width="400" style="border-radius: 10px; margin: 20px 0;">
-</div>
-
-<h2 align="center">🚀 TechExplorer's Arsenal</h2>
-
-<details>
-  <summary><h3>🌱 What I'm Learning</h3></summary>
-  <br>
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-          <br>React
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-          <br>JavaScript
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-          <br>TypeScript
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-          <br>Django
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-          <br>Rest API
-        </td>
-        <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-          <br>Docker
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
-          <br>NextJS
-        </td>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-          <br>Firebase
-        </td>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-          <br>Tailwind
-        </td>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-          <br>PostgreSQL
-        </td>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-          <br>TensorFlow
-        </td>
-        <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-          <br>PyTorch
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
-
-<h2 align="center">💻 FullStackGuru's Tech Stack</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
-</p>
-
-<h2 align="center">📊 DevShowcase: GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imtejakarthik&show_icons=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtejakarthik&layout=compact&theme=radical" alt="Top Languages" height="170">
+  <a href="https://www.instagram.com/tejakarthik.gubbala/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imtejakarthik&theme=radical&hide_border=false" alt="GitHub Streak">
-</div>
-
-<h2 align="center">🏆 The Innovator's Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Imtejakarthik&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies">
-</div>
-
-<h2 align="center">⏱️ AI_Minds: Time Allocation</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Imtejakarthik&theme=radical" alt="Wakatime Stats">
-</div>
-
-<h2 align="center">🐍 The Creator's Contribution Graph</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Imtejakarthik/Imtejakarthik/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation">
-</div>
-
-<h2 align="center">🧙‍♂️ Unveiling the Code Alchemist</h2>
-
-<div align="center" style="background: linear-gradient(45deg, #1a1a1a, #2a2a2a); padding: 20px; border-radius: 10px; margin: 20px 0;">
-  <p align="left" style="color: #fff; line-height: 1.6;">
-    Greetings, fellow digital adventurers! I'm not your average code wrangler – I'm a 3rd-year B.E./B.Tech student on a quest to unravel the mysteries of Artificial Intelligence and Machine Learning. Think of me as a modern-day tech alchemist, turning lines of code into digital gold! 🌟
-  </p>
-
-  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
-    <div style="text-align: left;">
-      <h3>🎭 The Developer's Persona</h3>
-      <p>By day, I'm a full-stack sorcerer, conjuring web wonders with React, Next.js, Node.js, and MongoDB. By night, I'm a TypeScript troubadour and a Prisma poet, composing symphonies of seamless software.</p>
-    </div>
-    <div style="text-align: left;">
-      <h3>🧠 The Knowledge Seeker</h3>
-      <p>My mind is an ever-expanding universe of tech knowledge, always hungry for the next big breakthrough. I don't just solve problems – I befriend them, take them out for coffee, and then elegantly show them the exit.</p>
-    </div>
-  </div>
-
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px 0;">
-    <div style="text-align: left;">
-      <h3>🚀 The Innovator</h3>
-      <p>When I'm not pushing pixels or training neural networks, you'll find me at tech meetups and hackathons, where I transform caffeine into code and dreams into demos.</p>
-    </div>
-    <div style="text-align: left;">
-      <h3>🎸 The Artist</h3>
-      <p>Off the digital grid, I'm a time-traveling philosopher, strumming my guitar to the tunes of ancient wisdom and futuristic melodies. I volley ideas on the badminton court, each serve a metaphor for problem-solving in tech.</p>
-    </div>
-    <div style="text-align: left;">
-      <h3>🎮 The Strategist</h3>
-      <p>In the realm of pixels and polygons, I'm a strategic mastermind, applying game theory to both my code and my gaming. Every movie I watch is a lesson in storytelling, every cultural event a masterclass in user experience.</p>
-    </div>
-  </div>
-
-  <p align="center" style="color: #fff; font-style: italic; margin-top: 20px;">
-    🌈 So, whether you're looking for a coding companion, a tech visionary, or just someone to debate the philosophical implications of AI over a game of badminton, I'm your human! Let's connect and create some digital magic together!
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=120&section=footer" width="100%">
 </div>
 
 <div align="center">
-  <h3><em>Mom: Don't touch your computer and mobile until your exams are over.</em></h3>
-  <h3><strong>Me:</strong></h3>
-  <div align="center">
-  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Escapism%20-%20Kirokaze%20Pixel-kaTbsKwbkobVTG14G2vQAWZqm8yir6.gif" alt="Cyberpunk Developer Animation" width="300" style="border-radius: 10px; margin: 20px 0;">
+  <img src="https://komarev.com/ghpvc/?username=Imtejakarthik&style=for-the-badge&color=FF00FF" alt="Profile Views">
 </div>
-  <img src="https://sjc.microlink.io/ilFYXnoNnifsly4Wm53s6P-7rdjzmo337UclI5IT2HRs-yQ_lmsyiZu0O1j0esLG5WPSwI4fxCHZoqnYMuLIcw.jpeg" alt="Cyberpunk Developer" width="300" style="border-radius: 10px; margin: 20px 0;">
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Imtejakarthik&style=for-the-badge&color=blueviolet" alt="Profile Views">
-</div>
-
-<style>
-  .grid-container > div {
-    transition: transform 0.3s ease;
-  }
-  
-  .grid-container > div:hover {
-    transform: translateY(-5px);
-  }
-  
-  h3 {
-    background: linear-gradient(45deg, #ff6b6b, #4ecdc4);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
-</style>
 
