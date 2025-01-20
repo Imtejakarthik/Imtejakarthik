@@ -1,7 +1,3 @@
-# Teja Karthik G
-### Pen Name Is KENTA
-Hi there! 👋 I'm **Teja Karthik G**, a passionate developer with a flair for crafting interactive and aesthetic web experiences. Welcome to my GitHub!
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Teja%20Karthik%20G&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20UI/UX%20Enthusiast%20|%20AI/ML%20Explorer&descAlignY=51&descAlign=62" width="100%"/>
 </div>
@@ -180,6 +176,9 @@ Hi there! 👋 I'm **Teja Karthik G**, a passionate developer with a flair for c
 <div align="center">
   <h3><em>Mom: Don't touch your computer and mobile until your exams are over.</em></h3>
   <h3><strong>Me:</strong></h3>
+  <div align="center">
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Escapism%20-%20Kirokaze%20Pixel-kaTbsKwbkobVTG14G2vQAWZqm8yir6.gif" alt="Cyberpunk Developer Animation" width="300" style="border-radius: 10px; margin: 20px 0;">
+</div>
   <img src="https://sjc.microlink.io/ilFYXnoNnifsly4Wm53s6P-7rdjzmo337UclI5IT2HRs-yQ_lmsyiZu0O1j0esLG5WPSwI4fxCHZoqnYMuLIcw.jpeg" alt="Cyberpunk Developer" width="300" style="border-radius: 10px; margin: 20px 0;">
 </div>
 
@@ -206,3 +205,4 @@ Hi there! 👋 I'm **Teja Karthik G**, a passionate developer with a flair for c
     -webkit-text-fill-color: transparent;
   }
 </style>
+
