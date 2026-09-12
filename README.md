@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="Imteja Karthik banner" width="100%" />
+  <img src="./profile-banner.svg" alt="Imteja Karthik profile banner" width="100%" />
 </div>
 
 <h1 align="center">
