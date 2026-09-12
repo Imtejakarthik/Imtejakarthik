@@ -1,8 +1,10 @@
 import json
+from collections import Counter
 from html import escape
 from pathlib import Path
 
 OUT = Path("profile-stats.svg")
+DATA = Path("data/repos.json")
 
 FIELDS = [
     ("AI / LLM", "PhilosopherMind Ultimate, Keyboard Auto Suggestion, agent automation"),
@@ -13,26 +15,23 @@ FIELDS = [
     ("IoT", "Smart Sock diabetic foot ulcer detection system"),
 ]
 
-LANGS = [
-    ("TypeScript", 13, "#58a6ff"),
-    ("Jupyter Notebook", 9, "#c084fc"),
-    ("Python", 6, "#39d353"),
-    ("JavaScript", 1, "#f778ba"),
-    ("EJS / Shell / Java", 3, "#ffbd2e"),
-]
+COLORS = ["#58a6ff", "#c084fc", "#39d353", "#f778ba", "#ffbd2e", "#7dd3fc"]
 
 
 def main():
-    total = sum(count for _, count, _ in LANGS)
+    repos = json.loads(DATA.read_text(encoding="utf-8"))["repos"]
+    counts = Counter(repo["language"] for repo in repos)
+    langs = [(name, count, COLORS[index % len(COLORS)]) for index, (name, count) in enumerate(counts.most_common(6))]
+    total = sum(count for _, count, _ in langs)
     bars = []
     x = 34
-    for name, count, color in LANGS:
+    for name, count, color in langs:
         width = round(690 * count / total)
         bars.append(f'<rect x="{x}" y="72" width="{width}" height="13" rx="6" fill="{color}"><title>{escape(name)}: {count} repos</title></rect>')
         x += width + 4
 
     lang_rows = []
-    for index, (name, count, color) in enumerate(LANGS):
+    for index, (name, count, color) in enumerate(langs):
         y = 118 + index * 25
         lang_rows.append(
             f'<circle cx="48" cy="{y - 4}" r="5" fill="{color}"/>'
@@ -59,7 +58,7 @@ def main():
   </style>
   <rect class="frame" x="1" y="1" width="858" height="290" rx="14"/>
   <text class="title" x="34" y="38">Real GitHub Work Summary</text>
-  <text class="muted" x="34" y="58">36 public source repositories grouped from the Imtejakarthik account</text>
+  <text class="muted" x="34" y="58">{len(repos)} public source repositories grouped from the Imtejakarthik account</text>
   {''.join(bars)}
   <text class="label" x="34" y="102">languages</text>
   <text class="label" x="380" y="102">fields</text>

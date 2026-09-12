@@ -40,43 +40,63 @@
 <br />
 
 <div align="center">
-  <h3><code>imteja@github ~ $ ls projects-by-field</code></h3>
+  <img src="./projects-terminal.svg" alt="Animated real projects grouped by field" width="95%" />
 </div>
 
-### AI / LLM
+<p align="center">
+  <a href="https://github.com/Imtejakarthik/PhilosopherMind_UltimateLLM"><img src="https://img.shields.io/badge/AI%20%2F%20LLM-PhilosopherMind-C084FC?style=for-the-badge" alt="PhilosopherMind Ultimate LLM" /></a>
+  <a href="https://github.com/Imtejakarthik/Heart-Disease-Prediction-"><img src="https://img.shields.io/badge/Healthcare%20ML-Heart%20Disease-39D353?style=for-the-badge" alt="Heart Disease Prediction" /></a>
+  <a href="https://github.com/Imtejakarthik/market-regime"><img src="https://img.shields.io/badge/Data%20Science-Market%20Regime-58A6FF?style=for-the-badge" alt="Market Regime RL Agent" /></a>
+  <br />
+  <a href="https://github.com/Imtejakarthik/campusnext"><img src="https://img.shields.io/badge/Web%20Apps-CampusNext-FFBD2E?style=for-the-badge" alt="CampusNext" /></a>
+  <a href="https://github.com/Imtejakarthik/dvader"><img src="https://img.shields.io/badge/Dev%20Tools-dvader-F778BA?style=for-the-badge" alt="dvader" /></a>
+  <a href="https://github.com/Imtejakarthik/smart_sock_iot"><img src="https://img.shields.io/badge/IoT-Smart%20Sock-7DD3FC?style=for-the-badge" alt="Smart Sock IoT" /></a>
+</p>
 
-- [PhilosopherMind Ultimate LLM](https://github.com/Imtejakarthik/PhilosopherMind_UltimateLLM) - emotionally intelligent problem-solving LLM architecture.
-- [Keyboard Auto Suggestion NLP Project](https://github.com/Imtejakarthik/Keyboard-Auto-Suggestion-NLP-Project) - real-time next-word suggestion using NLP.
-- [AI Agent Automation](https://github.com/Imtejakarthik/anti-ai-agent-genrator) - modular AI agent workflow automation system.
-- [LLM Automations](https://github.com/Imtejakarthik/llm-automations) - TypeScript automation experiments around LLM workflows.
+<details open>
+  <summary><b>AI / LLM</b></summary>
+  <br />
+  <a href="https://github.com/Imtejakarthik/PhilosopherMind_UltimateLLM">PhilosopherMind Ultimate LLM</a> · custom emotionally intelligent LLM concept<br />
+  <a href="https://github.com/Imtejakarthik/Keyboard-Auto-Suggestion-NLP-Project">Keyboard Auto Suggestion NLP Project</a> · real-time next-word suggestion<br />
+  <a href="https://github.com/Imtejakarthik/anti-ai-agent-genrator">AI Agent Automation</a> · modular agent workflow automation<br />
+  <a href="https://github.com/Imtejakarthik/llm-automations">LLM Automations</a> · TypeScript LLM workflow experiments
+</details>
 
-### Healthcare ML
+<details open>
+  <summary><b>Healthcare ML</b></summary>
+  <br />
+  <a href="https://github.com/Imtejakarthik/Heart-Disease-Prediction-">Heart Disease Prediction</a> · clinical ML prediction<br />
+  <a href="https://github.com/Imtejakarthik/advance-brain-tumor-segmentation">Advanced Brain Tumor Segmentation</a> · deep learning medical image segmentation<br />
+  <a href="https://github.com/Imtejakarthik/Live-Human-Emotion-Classification">Live Human Emotion Classification</a> · emotion classification experiment<br />
+  <a href="https://github.com/Imtejakarthik/smart_sock_iot">Smart Sock IoT</a> · diabetic foot ulcer monitoring concept
+</details>
 
-- [Heart Disease Prediction](https://github.com/Imtejakarthik/Heart-Disease-Prediction-) - ML prediction using clinical heart disease data.
-- [Advanced Brain Tumor Segmentation](https://github.com/Imtejakarthik/advance-brain-tumor-segmentation) - deep learning based tumor segmentation from medical images.
-- [Live Human Emotion Classification](https://github.com/Imtejakarthik/Live-Human-Emotion-Classification) - emotion classification experiment.
-- [Smart Sock IoT](https://github.com/Imtejakarthik/smart_sock_iot) - diabetic foot ulcer monitoring concept with sensors.
+<details open>
+  <summary><b>Data Science / Analytics</b></summary>
+  <br />
+  <a href="https://github.com/Imtejakarthik/market-regime">Market Regime Switching RL Agent</a> · RL agent with market regime detection<br />
+  <a href="https://github.com/Imtejakarthik/CO2-EMSSION">CO2 Emission Predictive Analysis</a> · vehicle emission prediction<br />
+  <a href="https://github.com/Imtejakarthik/scholarship-eligibility-analyzer">Scholarship Eligibility Analyzer</a> · local scholarship recommendation app<br />
+  <a href="https://github.com/Imtejakarthik/ekkocare">Ekkocare</a> · real-time analysis notebook project
+</details>
 
-### Data Science / Analytics
+<details open>
+  <summary><b>Web Apps / Product UI</b></summary>
+  <br />
+  <a href="https://github.com/Imtejakarthik/campusnext">CampusNext</a> · Next.js event management app<br />
+  <a href="https://github.com/Imtejakarthik/jv_mahal_website">JV Mahal Website</a> · Next.js website project<br />
+  <a href="https://github.com/Imtejakarthik/lora">Lora</a> · TypeScript web app<br />
+  <a href="https://github.com/Imtejakarthik/maptip">Maptip</a> · EJS web project
+</details>
 
-- [Market Regime Switching RL Agent](https://github.com/Imtejakarthik/market-regime) - reinforcement learning with market regime detection.
-- [CO2 Emission Predictive Analysis](https://github.com/Imtejakarthik/CO2-EMSSION) - vehicle carbon emission prediction model.
-- [Scholarship Eligibility Analyzer](https://github.com/Imtejakarthik/scholarship-eligibility-analyzer) - local AI-powered scholarship recommendation app.
-- [Ekkocare](https://github.com/Imtejakarthik/ekkocare) - real-time analysis notebook project.
-
-### Web Apps / Product UI
-
-- [CampusNext](https://github.com/Imtejakarthik/campusnext) - event management app with Next.js and TypeScript.
-- [JV Mahal Website](https://github.com/Imtejakarthik/jv_mahal_website) - Next.js website project.
-- [Lora](https://github.com/Imtejakarthik/lora) - TypeScript web application.
-- [Maptip](https://github.com/Imtejakarthik/maptip) - EJS web project.
-
-### Automation / Dev Tools
-
-- [dvader](https://github.com/Imtejakarthik/dvader) - JavaScript developer tooling project.
-- [Flowise AII](https://github.com/Imtejakarthik/flowise-aii) - Docker-based Flowise AI setup.
-- [HTTPS Server](https://github.com/Imtejakarthik/https-sever) - Shell-based HTTPS server experiment.
-- [Python Practice](https://github.com/Imtejakarthik/PYTHON) - Python learning and utility scripts.
+<details open>
+  <summary><b>Automation / Dev Tools</b></summary>
+  <br />
+  <a href="https://github.com/Imtejakarthik/dvader">dvader</a> · JavaScript developer tooling project<br />
+  <a href="https://github.com/Imtejakarthik/flowise-aii">Flowise AII</a> · Docker Flowise AI setup<br />
+  <a href="https://github.com/Imtejakarthik/https-sever">HTTPS Server</a> · Shell HTTPS server experiment<br />
+  <a href="https://github.com/Imtejakarthik/PYTHON">Python Practice</a> · Python learning and utility scripts
+</details>
 
 <br />
 
@@ -98,9 +118,13 @@
 
 <div align="center">
   <h3><code>imteja@github ~ $ git activity</code></h3>
-  <a href="https://github.com/Imtejakarthik?tab=repositories">View all repositories</a> ·
-  <a href="https://github.com/Imtejakarthik?tab=stars">View starred projects</a> ·
-  <a href="https://github.com/Imtejakarthik">View GitHub activity</a>
+  <img src="./nav-actions.svg" alt="View repositories, starred projects, and GitHub activity" width="95%" />
+  <br />
+  <a href="https://github.com/Imtejakarthik?tab=repositories"><b>View repositories</b></a>
+  ·
+  <a href="https://github.com/Imtejakarthik?tab=stars"><b>View starred projects</b></a>
+  ·
+  <a href="https://github.com/Imtejakarthik"><b>View GitHub activity</b></a>
 </div>
 
 <br />

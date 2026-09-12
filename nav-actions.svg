@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="96" viewBox="0 0 860 96" role="img" aria-label="GitHub navigation actions">
+  <style>
+    .frame { fill:#0d1117; stroke:#30365f; stroke-width:1; }
+    .button { fill:#161b22; stroke-width:1.5; }
+    .text { fill:#f5f7ff; font:800 16px 'Segoe UI', Ubuntu, sans-serif; }
+    .hint { fill:#9aa7c7; font:600 12px 'Segoe UI', Ubuntu, sans-serif; }
+    .one { stroke:#58a6ff; }
+    .two { stroke:#c084fc; }
+    .three { stroke:#39d353; }
+    .pulse { animation:pulse 1.8s ease-in-out infinite; }
+    @keyframes pulse { 50% { opacity:.65; } }
+    @media (prefers-reduced-motion: reduce) { .pulse { animation:none; } }
+  </style>
+  <rect class="frame" x="1" y="1" width="858" height="94" rx="14"/>
+  <rect class="button one" x="28" y="24" width="248" height="48" rx="10"/>
+  <rect class="button two" x="306" y="24" width="248" height="48" rx="10"/>
+  <rect class="button three" x="584" y="24" width="248" height="48" rx="10"/>
+  <circle class="pulse" cx="54" cy="48" r="6" fill="#58a6ff"/>
+  <circle class="pulse" cx="332" cy="48" r="6" fill="#c084fc"/>
+  <circle class="pulse" cx="610" cy="48" r="6" fill="#39d353"/>
+  <text class="text" x="74" y="46">View repositories</text>
+  <text class="hint" x="74" y="63">All public code</text>
+  <text class="text" x="352" y="46">View starred projects</text>
+  <text class="hint" x="352" y="63">Saved references</text>
+  <text class="text" x="630" y="46">View GitHub activity</text>
+  <text class="hint" x="630" y="63">Latest contributions</text>
+</svg>
