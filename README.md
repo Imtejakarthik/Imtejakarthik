@@ -8,7 +8,8 @@
 </h1>
 
 <p align="center">
-  <b>Full-stack developer</b> building AI-powered tools, polished web apps, and automation systems.
+  <b>Computer Science Engineering student specializing in AI and ML</b><br />
+  Building machine learning projects, web apps, automation tools, and data-driven systems.
 </p>
 
 <p align="center">
@@ -35,62 +36,73 @@
 <br />
 
 <div align="center">
-  <h3><code>imteja@github ~ $ ls featured-projects</code></h3>
+  <h3><code>imteja@github ~ $ ./real-work-summary.sh</code></h3>
+  <img src="./profile-stats.svg" alt="Real GitHub work summary grouped by fields and languages" width="95%" />
 </div>
 
-<p align="center">
-  <a href="https://ai-stackflow.vercel.app"><img src="https://img.shields.io/badge/AI%20Stackflow-Open-58A6FF?style=for-the-badge" alt="Open AI Stackflow" /></a>
-  <a href="https://byteforge-labs.vercel.app"><img src="https://img.shields.io/badge/Byteforge%20Labs-Open-C084FC?style=for-the-badge" alt="Open Byteforge Labs" /></a>
-  <a href="https://neuronhub-ai.vercel.app"><img src="https://img.shields.io/badge/NeuronHub%20AI-Open-39D353?style=for-the-badge" alt="Open NeuronHub AI" /></a>
-  <br />
-  <a href="https://devverse-tools.vercel.app"><img src="https://img.shields.io/badge/Devverse%20Tools-Open-F778BA?style=for-the-badge" alt="Open Devverse Tools" /></a>
-  <a href="https://project-zero-x.vercel.app"><img src="https://img.shields.io/badge/Project%20Zero%20X-Open-FFBD2E?style=for-the-badge" alt="Open Project Zero X" /></a>
-  <a href="https://autonoma-os.vercel.app"><img src="https://img.shields.io/badge/Autonoma%20OS-Open-28C840?style=for-the-badge" alt="Open Autonoma OS" /></a>
-</p>
+<br />
 
-<p align="center">
-  <b><a href="https://ai-stackflow.vercel.app">AI Stackflow</a></b> · AI-assisted workflow experiments<br />
-  <b><a href="https://byteforge-labs.vercel.app">Byteforge Labs</a></b> · web tools and product ideas<br />
-  <b><a href="https://neuronhub-ai.vercel.app">NeuronHub AI</a></b> · AI interfaces and agent workflows<br />
-  <b><a href="https://devverse-tools.vercel.app">Devverse Tools</a></b> · developer utilities<br />
-  <b><a href="https://project-zero-x.vercel.app">Project Zero X</a></b> · experimental product builds<br />
-  <b><a href="https://autonoma-os.vercel.app">Autonoma OS</a></b> · automation-first systems
-</p>
+<div align="center">
+  <h3><code>imteja@github ~ $ ls projects-by-field</code></h3>
+</div>
+
+### AI / LLM
+
+- [PhilosopherMind Ultimate LLM](https://github.com/Imtejakarthik/PhilosopherMind_UltimateLLM) - emotionally intelligent problem-solving LLM architecture.
+- [Keyboard Auto Suggestion NLP Project](https://github.com/Imtejakarthik/Keyboard-Auto-Suggestion-NLP-Project) - real-time next-word suggestion using NLP.
+- [AI Agent Automation](https://github.com/Imtejakarthik/anti-ai-agent-genrator) - modular AI agent workflow automation system.
+- [LLM Automations](https://github.com/Imtejakarthik/llm-automations) - TypeScript automation experiments around LLM workflows.
+
+### Healthcare ML
+
+- [Heart Disease Prediction](https://github.com/Imtejakarthik/Heart-Disease-Prediction-) - ML prediction using clinical heart disease data.
+- [Advanced Brain Tumor Segmentation](https://github.com/Imtejakarthik/advance-brain-tumor-segmentation) - deep learning based tumor segmentation from medical images.
+- [Live Human Emotion Classification](https://github.com/Imtejakarthik/Live-Human-Emotion-Classification) - emotion classification experiment.
+- [Smart Sock IoT](https://github.com/Imtejakarthik/smart_sock_iot) - diabetic foot ulcer monitoring concept with sensors.
+
+### Data Science / Analytics
+
+- [Market Regime Switching RL Agent](https://github.com/Imtejakarthik/market-regime) - reinforcement learning with market regime detection.
+- [CO2 Emission Predictive Analysis](https://github.com/Imtejakarthik/CO2-EMSSION) - vehicle carbon emission prediction model.
+- [Scholarship Eligibility Analyzer](https://github.com/Imtejakarthik/scholarship-eligibility-analyzer) - local AI-powered scholarship recommendation app.
+- [Ekkocare](https://github.com/Imtejakarthik/ekkocare) - real-time analysis notebook project.
+
+### Web Apps / Product UI
+
+- [CampusNext](https://github.com/Imtejakarthik/campusnext) - event management app with Next.js and TypeScript.
+- [JV Mahal Website](https://github.com/Imtejakarthik/jv_mahal_website) - Next.js website project.
+- [Lora](https://github.com/Imtejakarthik/lora) - TypeScript web application.
+- [Maptip](https://github.com/Imtejakarthik/maptip) - EJS web project.
+
+### Automation / Dev Tools
+
+- [dvader](https://github.com/Imtejakarthik/dvader) - JavaScript developer tooling project.
+- [Flowise AII](https://github.com/Imtejakarthik/flowise-aii) - Docker-based Flowise AI setup.
+- [HTTPS Server](https://github.com/Imtejakarthik/https-sever) - Shell-based HTTPS server experiment.
+- [Python Practice](https://github.com/Imtejakarthik/PYTHON) - Python learning and utility scripts.
 
 <br />
 
 <div align="center">
   <h3><code>imteja@github ~ $ cat stack.txt</code></h3>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,tailwind,prisma,postgres,mongodb,vite,html,css,firebase,docker,python,linux,git,github,vscode,figma,vercel,netlify" alt="Next.js, React, TypeScript, JavaScript, Node.js, Tailwind, Prisma, Postgres, MongoDB, Vite, HTML, CSS, Firebase, Docker, Python, Linux, Git, GitHub, VS Code, Figma, Vercel, Netlify" />
-</div>
-
-<p align="center">
-  <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Python</code>
-  <code>Tailwind</code> <code>Prisma</code> <code>Postgres</code> <code>MongoDB</code> <code>Docker</code>
-</p>
-
-<br />
-
-<div align="center">
-  <h3><code>imteja@github ~ $ ./stats.sh</code></h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Imtejakarthik&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117" width="49%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtejakarthik&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117" width="49%" alt="Top languages" />
-  <br />
-  <a href="https://github.com/Imtejakarthik?tab=repositories">View repositories</a>
+  <code>Python</code>
+  <code>Jupyter Notebook</code>
+  <code>TypeScript</code>
+  <code>JavaScript</code>
+  <code>Next.js</code>
+  <code>React</code>
+  <code>Node.js</code>
+  <code>Docker</code>
+  <code>Shell</code>
+  <code>EJS</code>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Imtejakarthik&theme=tokyonight&hide_border=true&background=0D1117&border_radius=10" width="60%" alt="GitHub streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <h3><code>imteja@github ~ $ ./activity.sh</code></h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imtejakarthik&theme=react-dark&bg_color=0D1117&color=58a6ff&line=c084fc&point=FFFFFF&area=true&hide_border=true" width="98%" alt="GitHub activity graph" />
-  <br />
+  <h3><code>imteja@github ~ $ git activity</code></h3>
+  <a href="https://github.com/Imtejakarthik?tab=repositories">View all repositories</a> ·
+  <a href="https://github.com/Imtejakarthik?tab=stars">View starred projects</a> ·
   <a href="https://github.com/Imtejakarthik">View GitHub activity</a>
 </div>
 
