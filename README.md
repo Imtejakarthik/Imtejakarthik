@@ -21,6 +21,12 @@
   <!-- <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg?style=for-the-badge" alt="Wakatime" /> -->
 </div>
 
+<br />
+
+<div align="center">
+  <img src="./info-card.svg" alt="Animated profile info card" width="95%" />
+</div>
+
 <!-- About Me Section with Animation -->
 <div align="center">
   <h2>
@@ -91,6 +97,12 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Imtejakarthik&theme=tokyonight&hide_border=true&background=1A1B27&border_radius=10" width="60%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./contrib-heatmap.svg" alt="Animated GitHub contribution heatmap" width="95%" />
 </div>
 
 <!-- Animated Divider -->
