@@ -1,134 +1,150 @@
+<!-- Header Section with Animation -->
 <div align="center">
-  <img src="./profile-banner.svg" alt="Imteja Karthik profile banner" width="100%" />
+  <img src="https://github.com/Imtejakarthik/Imtejakarthik/blob/main/banner.png" alt="Banner Image" width="100%"/>
 </div>
 
 <h1 align="center">
-  Hi, I'm <a href="https://github.com/Imtejakarthik">Imteja Karthik</a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="wave" />
+  Hey there, I'm <a href="https://github.com/Imtejakarthik">Imteja Karthik</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <p align="center">
-  <b>Computer Science Engineering student specializing in AI and ML</b><br />
-  Building machine learning projects, web apps, automation tools, and data-driven systems.
-</p>
-
-<p align="center">
-  <a href="mailto:imtejakarthik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/imtejakarthik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/Imtejakarthik"><img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-  <a href="https://www.instagram.com/imtejakarthik/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:imtejakarthik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/imtejakarthik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/Imtejakarthik"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.instagram.com/imtejakarthik/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <div align="center">
-  <img src="./info-card.svg" alt="Animated terminal profile card" width="95%" />
+  <img src="https://komarev.com/ghpvc/?username=Imtejakarthik&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <!-- You can uncomment this when you have your Wakatime ID -->
+  <!-- <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg?style=for-the-badge" alt="Wakatime" /> -->
 </div>
 
-<br />
-
+<!-- About Me Section with Animation -->
 <div align="center">
-  <h3><code>imteja@github ~ $ ./contributions.sh</code></h3>
-  <img src="./contrib-heatmap.svg" alt="Animated GitHub contribution heatmap" width="95%" />
-</div>
-
-<br />
-
-<div align="center">
-  <h3><code>imteja@github ~ $ ./real-work-summary.sh</code></h3>
-  <img src="./profile-stats.svg" alt="Real GitHub work summary grouped by fields and languages" width="95%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="./projects-terminal.svg" alt="Animated real projects grouped by field" width="95%" />
+  <h2>
+    <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30px" height="30px">
+    About Me
+  </h2>
 </div>
 
 <p align="center">
-  <a href="https://github.com/Imtejakarthik/PhilosopherMind_UltimateLLM"><img src="https://img.shields.io/badge/AI%20%2F%20LLM-PhilosopherMind-C084FC?style=for-the-badge" alt="PhilosopherMind Ultimate LLM" /></a>
-  <a href="https://github.com/Imtejakarthik/Heart-Disease-Prediction-"><img src="https://img.shields.io/badge/Healthcare%20ML-Heart%20Disease-39D353?style=for-the-badge" alt="Heart Disease Prediction" /></a>
-  <a href="https://github.com/Imtejakarthik/market-regime"><img src="https://img.shields.io/badge/Data%20Science-Market%20Regime-58A6FF?style=for-the-badge" alt="Market Regime RL Agent" /></a>
-  <br />
-  <a href="https://github.com/Imtejakarthik/campusnext"><img src="https://img.shields.io/badge/Web%20Apps-CampusNext-FFBD2E?style=for-the-badge" alt="CampusNext" /></a>
-  <a href="https://github.com/Imtejakarthik/dvader"><img src="https://img.shields.io/badge/Dev%20Tools-dvader-F778BA?style=for-the-badge" alt="dvader" /></a>
-  <a href="https://github.com/Imtejakarthik/smart_sock_iot"><img src="https://img.shields.io/badge/IoT-Smart%20Sock-7DD3FC?style=for-the-badge" alt="Smart Sock IoT" /></a>
+  A passionate full-stack developer & AI enthusiast with a strong foundation in system design, automation, and web technologies.<br />
+  Always exploring new technologies and building cool things with a purpose.
 </p>
 
-<details open>
-  <summary><b>AI / LLM</b></summary>
-  <br />
-  <a href="https://github.com/Imtejakarthik/PhilosopherMind_UltimateLLM">PhilosopherMind Ultimate LLM</a> · custom emotionally intelligent LLM concept<br />
-  <a href="https://github.com/Imtejakarthik/Keyboard-Auto-Suggestion-NLP-Project">Keyboard Auto Suggestion NLP Project</a> · real-time next-word suggestion<br />
-  <a href="https://github.com/Imtejakarthik/anti-ai-agent-genrator">AI Agent Automation</a> · modular agent workflow automation<br />
-  <a href="https://github.com/Imtejakarthik/llm-automations">LLM Automations</a> · TypeScript LLM workflow experiments
-</details>
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="-----------------------------------------------------" />
+</p>
 
-<details open>
-  <summary><b>Healthcare ML</b></summary>
-  <br />
-  <a href="https://github.com/Imtejakarthik/Heart-Disease-Prediction-">Heart Disease Prediction</a> · clinical ML prediction<br />
-  <a href="https://github.com/Imtejakarthik/advance-brain-tumor-segmentation">Advanced Brain Tumor Segmentation</a> · deep learning medical image segmentation<br />
-  <a href="https://github.com/Imtejakarthik/Live-Human-Emotion-Classification">Live Human Emotion Classification</a> · emotion classification experiment<br />
-  <a href="https://github.com/Imtejakarthik/smart_sock_iot">Smart Sock IoT</a> · diabetic foot ulcer monitoring concept
-</details>
-
-<details open>
-  <summary><b>Data Science / Analytics</b></summary>
-  <br />
-  <a href="https://github.com/Imtejakarthik/market-regime">Market Regime Switching RL Agent</a> · RL agent with market regime detection<br />
-  <a href="https://github.com/Imtejakarthik/CO2-EMSSION">CO2 Emission Predictive Analysis</a> · vehicle emission prediction<br />
-  <a href="https://github.com/Imtejakarthik/scholarship-eligibility-analyzer">Scholarship Eligibility Analyzer</a> · local scholarship recommendation app<br />
-  <a href="https://github.com/Imtejakarthik/ekkocare">Ekkocare</a> · real-time analysis notebook project
-</details>
-
-<details open>
-  <summary><b>Web Apps / Product UI</b></summary>
-  <br />
-  <a href="https://github.com/Imtejakarthik/campusnext">CampusNext</a> · Next.js event management app<br />
-  <a href="https://github.com/Imtejakarthik/jv_mahal_website">JV Mahal Website</a> · Next.js website project<br />
-  <a href="https://github.com/Imtejakarthik/lora">Lora</a> · TypeScript web app<br />
-  <a href="https://github.com/Imtejakarthik/maptip">Maptip</a> · EJS web project
-</details>
-
-<details open>
-  <summary><b>Automation / Dev Tools</b></summary>
-  <br />
-  <a href="https://github.com/Imtejakarthik/dvader">dvader</a> · JavaScript developer tooling project<br />
-  <a href="https://github.com/Imtejakarthik/flowise-aii">Flowise AII</a> · Docker Flowise AI setup<br />
-  <a href="https://github.com/Imtejakarthik/https-sever">HTTPS Server</a> · Shell HTTPS server experiment<br />
-  <a href="https://github.com/Imtejakarthik/PYTHON">Python Practice</a> · Python learning and utility scripts
-</details>
-
-<br />
+<!-- Tech Stack with Animation -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/LVXJeaLK8XZcbG2lGV/giphy.gif" width="30px" height="30px">
+    Tech Stack & Tools
+  </h2>
+</div>
 
 <div align="center">
-  <h3><code>imteja@github ~ $ cat stack.txt</code></h3>
-  <code>Python</code>
-  <code>Jupyter Notebook</code>
-  <code>TypeScript</code>
-  <code>JavaScript</code>
-  <code>Next.js</code>
-  <code>React</code>
-  <code>Node.js</code>
-  <code>Docker</code>
-  <code>Shell</code>
-  <code>EJS</code>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,tailwind,prisma,postgres,mongodb" /><br/>
+  <img src="https://skillicons.dev/icons?i=vite,html,css,firebase,docker,python,linux,git,github,vscode,figma,vercel,netlify" />
+</div>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="-----------------------------------------------------" />
+</p>
+
+<!-- Currently Exploring with Animation -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30px" height="30px">
+    Currently Exploring
+  </h2>
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,nginx,kubernetes,bash,githubactions" />
+</div>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="-----------------------------------------------------" />
+</p>
+
+<!-- GitHub Stats with Animation -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/JrXas5Aw5dHb3yi4ik/giphy.gif" width="30px" height="30px">
+    GitHub Stats
+  </h2>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Imtejakarthik&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1A1B27" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtejakarthik&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1A1B27" width="49%" />
 </div>
 
 <br />
 
 <div align="center">
-  <h3><code>imteja@github ~ $ git activity</code></h3>
-  <img src="./nav-actions.svg" alt="View repositories, starred projects, and GitHub activity" width="95%" />
-  <br />
-  <a href="https://github.com/Imtejakarthik?tab=repositories"><b>View repositories</b></a>
-  ·
-  <a href="https://github.com/Imtejakarthik?tab=stars"><b>View starred projects</b></a>
-  ·
-  <a href="https://github.com/Imtejakarthik"><b>View GitHub activity</b></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Imtejakarthik&theme=tokyonight&hide_border=true&background=1A1B27&border_radius=10" width="60%" />
 </div>
 
-<br />
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="-----------------------------------------------------" />
+</p>
+
+<!-- GitHub Achievements with Animation -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="30px" height="30px">
+    GitHub Achievements
+  </h2>
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Imtejakarthik&theme=discord&no-frame=true&column=7&margin-w=15&margin-h=15" width="95%" />
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="-----------------------------------------------------" />
+</p>
+
+<!-- Activity Graph with Animation -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30px" height="30px">
+    Activity Graph
+  </h2>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imtejakarthik&theme=react-dark&bg_color=1A1B27&color=58a6ff&line=9b59b6&point=FFFFFF&area=true&hide_border=true" width="98%" />
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="-----------------------------------------------------" />
+</p>
+
+<!-- Coding Animation -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="30px" height="30px">
+    Coding Time
+  </h2>
+</div>
 
 <div align="center">
-  <h3><code>Thanks for visiting. Build something useful today.</code></h3>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="coding gif" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <h3>Thanks for visiting my profile! Have a great day! 👋</h3>
 </div>
