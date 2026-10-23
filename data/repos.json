@@ -1,13 +1,13 @@
 {
   "username": "Imtejakarthik",
-  "generated_at": "2026-10-22T12:01:18Z",
+  "generated_at": "2026-10-23T11:47:03Z",
   "repos": [
     {
       "name": "dvader",
       "description": "\u201cI find your verbosity disturbing.\u201d Darth Vader-flavored agent skills for ultra-short replies, smaller diffs, and proof before \u201cWork done.\u201d Measured 81% rough / 73% GPT-tokenizer savings.",
       "language": "JavaScript",
       "url": "https://github.com/Imtejakarthik/dvader",
-      "stars": 0,
+      "stars": 1,
       "updated_at": "2026-09-12T20:00:10Z"
     },
     {
